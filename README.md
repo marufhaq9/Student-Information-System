@@ -2,3 +2,5 @@
 Student Information System in JAVA is a project done by me.
 This is a NetBeans Project, done using jFrame.
 I used mySql for database.
+<i>For further new features you can contact with me</i>
+<b>Contact: marufhaq9@live.com</b>
